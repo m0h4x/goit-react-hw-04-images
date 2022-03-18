@@ -1,6 +1,6 @@
 const axios = require('axios');
 const BASE_URL = 'https://pixabay.com/api';
-const API_KEY = '24385754-e04213b2da07f3f18967e54df';
+const API_KEY = '25069580-db92d955714ee250824c2e025';
 
 async function fetchImages(text, page) {
   try {
